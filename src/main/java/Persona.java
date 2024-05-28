@@ -51,5 +51,37 @@ public class Persona {
     public void setGenero(char genero) {
         this.genero = genero;
     }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public char getEdad() {
+        return edad;
+    }
+
+    public void setEdad(char edad) {
+        this.edad = edad;
+    }
+
+    public String getNombreCompleto() {
+        return nombreCompleto;
+    }
+
+    public void setNombreCompleto(String nombreCompleto) {
+        this.nombreCompleto = nombreCompleto;
+    }
+
+    public float getAltura() {
+        return altura;
+    }
+
+    public void setAltura(float altura) {
+        this.altura = altura;
+    }
 }
 
