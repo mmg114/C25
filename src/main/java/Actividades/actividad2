@@ -1,0 +1,3 @@
+El programa pedirá al usuario que ingrese un número entero positivo.
+Luego, el programa imprimirá todos los números desde 1 hasta el número ingresado,
+indicando si cada número es par o impar.

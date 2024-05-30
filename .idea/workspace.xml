@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8db67919-aaa6-446e-844d-90dda0a17182" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Actividades/Celular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clase5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Actividades/actividad2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clase6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clase7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Clase4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Actividades/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Actividades/Celular.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +46,23 @@
     "Application.Clase2.executor": "Run",
     "Application.Clase4.executor": "Run",
     "Application.Clase5.executor": "Run",
+    "Application.Clase6.executor": "Debug",
+    "Application.Clase7.executor": "Debug",
     "Application.MiPrimeraClase.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Ws/PS/C23A",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Clase5">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Clase7">
     <configuration name="Clase3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clase3" />
       <module name="C25" />
@@ -75,8 +84,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Clase6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase6" />
+      <module name="C25" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase7" />
+      <module name="C25" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clase7" />
+        <item itemvalue="Application.Clase6" />
         <item itemvalue="Application.Clase5" />
         <item itemvalue="Application.Clase4" />
         <item itemvalue="Application.Clase3" />
@@ -93,5 +118,16 @@
       <updated>1716514475922</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Clase7.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

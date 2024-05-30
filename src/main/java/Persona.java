@@ -5,7 +5,7 @@ public class Persona {
     }
 
     public Persona(String nombreCompleto){
-
+        this.nombreCompleto=nombreCompleto;
     }
 
     private Persona(String id, char edad, char genero, String nombreCompleto, float altura) {
@@ -28,7 +28,7 @@ public class Persona {
     }
 
 
-    void correr(){
+   static  void  correr(){
 
     }
     void trabajar(){
