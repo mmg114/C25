@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8db67919-aaa6-446e-844d-90dda0a17182" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Actividades/actividad2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clase6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clase7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clase8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Actividades/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Actividades/Celular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Clase7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Clase7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +44,8 @@
     "Application.Clase4.executor": "Run",
     "Application.Clase5.executor": "Run",
     "Application.Clase6.executor": "Debug",
-    "Application.Clase7.executor": "Debug",
+    "Application.Clase7.executor": "Run",
+    "Application.Clase8.executor": "Run",
     "Application.MiPrimeraClase.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -62,14 +60,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Clase7">
-    <configuration name="Clase3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clase3" />
-      <module name="C25" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Clase8">
     <configuration name="Clase4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clase4" />
       <module name="C25" />
@@ -98,13 +89,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Clase8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase8" />
+      <module name="C25" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clase8" />
         <item itemvalue="Application.Clase7" />
         <item itemvalue="Application.Clase6" />
         <item itemvalue="Application.Clase5" />
         <item itemvalue="Application.Clase4" />
-        <item itemvalue="Application.Clase3" />
       </list>
     </recent_temporary>
   </component>
@@ -123,9 +121,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Clase7.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/main/java/Clase8.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Clase8.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
