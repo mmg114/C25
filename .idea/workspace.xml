@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8db67919-aaa6-446e-844d-90dda0a17182" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Clase11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clase11/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clase11/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clase11/Rectangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Clase10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Clase10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
