@@ -10,6 +10,8 @@ public class Cuadrado implements FiguraGeometrica{
 
     @Override
     public int calcularArea() {
+       DiaSemana diaSemana = DiaSemana.LUNES;
+
         return lado*lado;
     }
 }

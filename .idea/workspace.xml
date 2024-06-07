@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8db67919-aaa6-446e-844d-90dda0a17182" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/clase11/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clase11/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clase11/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Clase12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/clase11/DiaSemana.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/clase11/Cuadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/clase11/Cuadrado.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -44,6 +45,7 @@
   "keyToString": {
     "Application.Clase10.executor": "Run",
     "Application.Clase11.executor": "Run",
+    "Application.Clase12.executor": "Run",
     "Application.Clase2.executor": "Run",
     "Application.Clase3.executor": "Debug",
     "Application.Clase4.executor": "Run",
@@ -66,7 +68,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Clase11">
+  <component name="RunManager" selected="Application.Clase12">
     <configuration name="Clase10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clase10" />
       <module name="C25" />
@@ -81,15 +83,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clase3" />
+    <configuration name="Clase12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase12" />
       <module name="C25" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Clase8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Clase8" />
+    <configuration name="Clase3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase3" />
       <module name="C25" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Clase12" />
         <item itemvalue="Application.Clase11" />
         <item itemvalue="Application.Clase10" />
         <item itemvalue="Application.Clase3" />
         <item itemvalue="Application.Clase9" />
-        <item itemvalue="Application.Clase8" />
       </list>
     </recent_temporary>
   </component>
