@@ -9,7 +9,7 @@ public class Clase10 {
 
     public static void main(String[] args) {
 
-            logger.setLevel(Level.INFO);
+            logger.setLevel(Level.OFF);
 
 
         ConsoleHandler consoleHandler = new ConsoleHandler();
